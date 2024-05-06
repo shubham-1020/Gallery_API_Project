@@ -1,0 +1,9 @@
+.Gallery-pics{
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+}
+
+.Gallery-pics h1{
+    letter-spacing: 6px;
+}
